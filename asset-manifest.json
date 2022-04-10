@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactCustomPaginationWithFiltering/static/css/main.a8a52ed1.css",
+    "main.js": "/ReactCustomPaginationWithFiltering/static/js/main.84c4e802.js",
+    "static/js/787.1a5edc89.chunk.js": "/ReactCustomPaginationWithFiltering/static/js/787.1a5edc89.chunk.js",
+    "index.html": "/ReactCustomPaginationWithFiltering/index.html",
+    "main.a8a52ed1.css.map": "/ReactCustomPaginationWithFiltering/static/css/main.a8a52ed1.css.map",
+    "main.84c4e802.js.map": "/ReactCustomPaginationWithFiltering/static/js/main.84c4e802.js.map",
+    "787.1a5edc89.chunk.js.map": "/ReactCustomPaginationWithFiltering/static/js/787.1a5edc89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a52ed1.css",
+    "static/js/main.84c4e802.js"
+  ]
+}
