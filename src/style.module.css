@@ -1,0 +1,45 @@
+.mainContent {
+  margin: 0px auto !important;
+  width: 90% !important;
+}
+
+.dropdown {
+  width: 200px !important;
+}
+
+.title {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  border-left: 5px solid green;
+  font-size: 18px;
+  color: black;
+  background-color: orange;
+  display: inline-block;
+}
+.img {
+  width: 80px !important;
+  height: 100px !important;
+}
+.centerPage {
+  justify-content: center !important;
+}
+.mainContainer {
+  min-height: 670px;
+  margin: 0px auto;
+  width: 100%;
+  align-content: flex-start;
+}
+.card {
+  width: 100%;
+  min-height: 250px;
+}
+
+.notActivePage {
+  background-color: orange !important;
+  color: black !important;
+}
+@media only screen and (max-width: 574px) {
+  .mainContainer > * {
+    width: 50% !important;
+  }
+}
