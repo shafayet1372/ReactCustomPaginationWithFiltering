@@ -42,4 +42,7 @@
   .mainContainer > * {
     width: 50% !important;
   }
+  .mainContainer {
+    min-height: 680px;
+  }
 }

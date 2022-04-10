@@ -11,7 +11,7 @@ export default function Master() {
   let [category, setCategory] = useState("all");
   let [categories, setCategories] = useState([]);
   let [currentPage, setCurrentPage] = useState(1);
-  let [perPage, setPerPage] = useState(8);
+  let [perPage, setPerPage] = useState(6);
   useEffect(() => {
     let show = async () => {
       try {
